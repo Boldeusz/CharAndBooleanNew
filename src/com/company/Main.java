@@ -14,5 +14,9 @@ public class Main {
         boolean myFalseBooleanValue = false;
 
         boolean isCustomerOverTwentyOne = true;
+
+        int result = 3;
+        result++;
+        System.out.println(result);
     }
 }
